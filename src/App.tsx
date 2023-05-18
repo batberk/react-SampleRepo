@@ -18,6 +18,7 @@ function App() {
     avg_rating: 4.5,
     reviews: []
   };
+  // comment example
 
   const [new_user, setNewUser] = useState<User>(tempUser);
 
